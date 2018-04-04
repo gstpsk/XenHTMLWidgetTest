@@ -1,0 +1,10 @@
+                                     Package: com.gstpsk.widgettest
+                                     Name: WidgetTest
+                                     Version: 1.0.0-1
+                                     Architecture: iphoneos-arm
+                                     Description: Widget for testing.
+                                     Homepage: gstpsk.github.io/cydia
+                                     Maintainer: gstpsk
+                                     Author: gstpsk
+                                     Sponsor: none
+                                     Section: Widget
